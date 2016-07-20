@@ -1,0 +1,38 @@
+#red {
+	width:70px;
+	height:70px;
+    display:block;
+    background-color:red;
+    border:10px;
+}
+
+#rectangulo{
+	width:260px;
+	height:100px;
+	display:block;
+	background-color:green;
+	margin:10px 0px 10px 0px;
+}
+
+div>div{
+    width:70px;
+	height:70px;
+	display:inline-block;
+	background-color:brown;
+	margin:10px 0px 20px 10px;
+}
+
+.yellow{
+	width:70px;
+	height:70px;
+    display:inline-block;
+    background-color:yellow;
+    margin:0px 10px 10px 0px;
+}
+
+#blue {
+	width:70px;
+	height:70px;
+    display:block;
+    background-color:blue;
+ }
